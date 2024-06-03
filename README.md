@@ -1,4 +1,4 @@
-## Java. Базовый курс
+## [Java. Базовый курс](https://stepik.org/course/187/syllabus)
 ### 1. Введение в Java
 1. Что такое Java, откуда она взялась и зачем нужна
 2. Первый контакт — Hello World
