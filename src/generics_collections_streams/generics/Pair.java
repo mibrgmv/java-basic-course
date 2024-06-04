@@ -1,3 +1,5 @@
+package generics_collections_streams.generics;
+
 import java.util.Objects;
 
 class Pair <X, Y> {

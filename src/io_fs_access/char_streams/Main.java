@@ -1,6 +1,8 @@
+package io_fs_access.char_streams;
+
 import java.util.Scanner;
 
-public class SymbolReader {
+public class Main {
 
     public static void main(String[] args) {
         double sum = 0;
@@ -8,9 +10,7 @@ public class SymbolReader {
         while (scanner.hasNext()) {
             try {
                 sum += Double.parseDouble(scanner.next());
-            } catch (Exception e) {
-            }
-
+            } catch (Exception ignored) { }
         }
         System.out.printf("%.6f", sum);
     }

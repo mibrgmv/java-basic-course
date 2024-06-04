@@ -1,3 +1,5 @@
+package io_fs_access.advanced_capabilities;
+
 import java.io.Serializable;
 import java.util.Objects;
 
