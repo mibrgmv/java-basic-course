@@ -18,3 +18,10 @@
 1. [Знакомство с исключениями](https://github.com/mibrgmv/java-basic-course/tree/main/src/error_processing_exceptions/exceptions_intro)
 2. [Обработка исключений. Try-catch](https://github.com/mibrgmv/java-basic-course/tree/main/src/error_processing_exceptions/exception_handling)
 3. [Логирование](https://github.com/mibrgmv/java-basic-course/tree/main/src/error_processing_exceptions/logging)
+### 5. [Ввод-вывод, доступ к файловой системе](https://github.com/mibrgmv/java-basic-course/tree/main/src/io_fs_access)
+1. Доступ к файловой системе
+2. [Потоки байт](https://github.com/mibrgmv/java-basic-course/tree/main/src/io_fs_access/byte_streams)
+3. [Потоки символов](https://github.com/mibrgmv/java-basic-course/tree/main/src/io_fs_access/char_streams)
+4. [Продвинутые возможности](https://github.com/mibrgmv/java-basic-course/tree/main/src/io_fs_access/advanced_capabilities)
+### 6. [Generics. Collections. Streams](https://github.com/mibrgmv/java-basic-course/tree/main/src/generics_collections_streams)
+1. [Generics](https://github.com/mibrgmv/java-basic-course/tree/main/src/generics_collections_streams/generics)
