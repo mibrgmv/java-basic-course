@@ -25,3 +25,5 @@
 4. [Продвинутые возможности](https://github.com/mibrgmv/java-basic-course/tree/main/src/io_fs_access/advanced_capabilities)
 ### 6. [Generics. Collections. Streams](https://github.com/mibrgmv/java-basic-course/tree/main/src/generics_collections_streams)
 1. [Generics](https://github.com/mibrgmv/java-basic-course/tree/main/src/generics_collections_streams/generics)
+2. [Коллекции](https://github.com/mibrgmv/java-basic-course/tree/main/src/generics_collections_streams/collections)
+3. [Функциональные интерфейсы](https://github.com/mibrgmv/java-basic-course/tree/main/src/generics_collections_streams/functional_interfaces)
