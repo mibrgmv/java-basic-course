@@ -27,3 +27,4 @@
 1. [Generics](https://github.com/mibrgmv/java-basic-course/tree/main/src/generics_collections_streams/generics)
 2. [Коллекции](https://github.com/mibrgmv/java-basic-course/tree/main/src/generics_collections_streams/collections)
 3. [Функциональные интерфейсы](https://github.com/mibrgmv/java-basic-course/tree/main/src/generics_collections_streams/functional_interfaces)
+4. [Stream API](https://github.com/mibrgmv/java-basic-course/tree/main/src/generics_collections_streams/stream_api)
